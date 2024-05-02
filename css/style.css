@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    background: #DFE0E2;
+    height: 100%;
+    
+
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    min-height: 100%;
+}
+#footer{
+    margin-top: auto;
+}
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+table{
+    border: none;
+}
+.cont{
+    margin-top: 10px;
+}
+.cont-body{
+    margin-top: 10px;
+}
+
+footer .row{
+    background-color: #909EA4;
+}
+.main_content{
+    background: #6D8A96;
+}
